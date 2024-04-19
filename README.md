@@ -5,8 +5,9 @@ This first case study is on Danny's Diner which can be found below.
 
 ## Case Study 1
 https://8weeksqlchallenge.com/case-study-1/
+<img src='[https://8weeksqlchallenge.com/images/case-study-designs/1.png](https://8weeksqlchallenge.com/images/case-study-designs/1.png)'>
 
 ## Database tables 
 
-<img src='https://8weeksqlchallenge.com/images/case-study-designs/1.png'>
+
 
