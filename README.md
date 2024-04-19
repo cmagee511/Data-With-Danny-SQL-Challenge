@@ -10,5 +10,5 @@ https://8weeksqlchallenge.com/case-study-1/
 
 ## Database tables 
 
-<src='https://dbdiagram.io/embed/608d07e4b29a09603d12edbd'>
+<img src='https://dbdiagram.io/embed/608d07e4b29a09603d12edbd'>
 
